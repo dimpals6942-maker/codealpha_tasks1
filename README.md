@@ -1,21 +1,17 @@
-# 🤖 Basic Rule-Based ChatBot
-### Internship Project — Python Fundamentals
-
+#  Basic Rule-Based ChatBot
 ---
-
-## 📌 Project Overview
+-- Project Overview
 
 A **rule-based chatbot** built in Python that accepts natural language input from the user and responds with predefined, context-aware replies.
 
 ---
-
-## 🎯 Goal
+-- Goal
 
 Build a simple chatbot using core Python concepts to simulate a basic conversation interface.
 
 ---
 
-## 🔍 Scope
+-- Scope
 
 | Feature | Details |
 |---|---|
@@ -27,7 +23,7 @@ Build a simple chatbot using core Python concepts to simulate a basic conversati
 
 ---
 
-## 🧠 Key Concepts Used
+-- Key Concepts Used
 
 | Concept | Where Used |
 |---|---|
@@ -41,7 +37,7 @@ Build a simple chatbot using core Python concepts to simulate a basic conversati
 
 ---
 
-## 📁 Project Structure
+-- Project Structure
 
 ```
 chatbot_project/
@@ -53,17 +49,14 @@ chatbot_project/
 
 ---
 
-## ▶️ How to Run
+--How to Run
 
 ```bash
 python chatbot.py
 ```
-
-No external libraries required — **100% Python Standard Library**.
-
 ---
 
-## 💬 Sample Conversation
+-- Sample Conversation
 
 ```
 ╔══════════════════════════════════════════════╗
@@ -87,7 +80,7 @@ No external libraries required — **100% Python Standard Library**.
 
 ---
 
-## 🛠️ How It Works
+-- How It Works
 
 ```
 User types input
@@ -111,11 +104,9 @@ Check for EXIT keyword → end loop or continue
 
 ---
 
-## ✅ Requirements
+-- Requirements
 
 - Python 3.6+
 - No external packages needed
 
 ---
-
-*Built for Internship Submission | Python Fundamentals Project*
